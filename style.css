@@ -267,6 +267,9 @@ header a:hover {
     font-size: 1.5vw;
 }
 @media only screen and (max-width: 900px) {
+    html {
+    scroll-snap-type: none;
+}
     .mobile {
         display: block;
         color: white;
