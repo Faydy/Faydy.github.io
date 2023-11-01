@@ -267,19 +267,20 @@ header a:hover {
     font-size: 1.5vw;
 }
 @media only screen and (max-width: 900px) {
-    html {
-    scroll-snap-type: none;
-}
     .mobile {
         display: block;
         color: white;
         font-family: 'Inter', sans-serif;
         font-size: 1.5em;
         text-align: center;
-        padding: 20%;
+  
     }
     #mh1{
         color: white;
+    }
+    #mimg{
+        max-width: 70vw;
+        padding: 20% 0;
     }
     section {
         display: none;
@@ -359,10 +360,5 @@ header a:hover {
     .main p {
         display: none;
     }
-<<<<<<< HEAD
 */
 }
-=======
-
-}
->>>>>>> ade64348e5ecb6e72ef77596e57797f34e4be991
