@@ -275,6 +275,21 @@ header a:hover {
         text-align: center;
         padding: 20%;
     }
+    #mh1{
+        color: white;
+    }
+    section {
+        display: none;
+    }
+    /*
+    .mobile {
+        display: block;
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-size: 1.5em;
+        text-align: center;
+        padding: 20%;
+    }
 
     header {
         justify-content: center;
@@ -341,5 +356,5 @@ header a:hover {
     .main p {
         display: none;
     }
-
+*/
 }
